@@ -22,3 +22,17 @@ body{
     width: 168px;
     border-radius: 5px;
 }
+ /* features bikes css */
+ .bike-text{
+     color: #E76F51;
+     border-bottom: 2px solid #E76F51 ;
+ }
+ img{
+    width: 100%;
+ }
+ .img{
+     cursor: pointer;
+ }
+ .img:hover{
+      filter: grayscale(100%);
+ }
