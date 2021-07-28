@@ -14,6 +14,7 @@ body{
     background-color: #E76F51;
     width: 91px;
     border-radius: 5px;
+    border: none;
 }
 
 /* banner css */
@@ -21,6 +22,7 @@ body{
     background-color: #E76F51;
     width: 168px;
     border-radius: 5px;
+    border: none;
 }
  /* features bikes css */
  .bike-text{
@@ -36,3 +38,18 @@ body{
  .img:hover{
       filter: grayscale(100%);
  }
+
+ /* latest area css */
+.btn1{
+    background-color: #E76F51;
+    width: 168px;
+    border-radius: 5px;
+    border: none;
+}
+.btn2{
+    background-color: white;
+    width: 168px;
+    border-radius: 5px;
+    border: 1px solid #E76F51;
+    color: #E76F51;
+}
