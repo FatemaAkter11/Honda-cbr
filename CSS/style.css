@@ -1,0 +1,17 @@
+/* common css */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header css */
+.color-bg{
+    background-color: #264653;
+}
+.nav-link{
+    font-size: 16px;
+}
+.log_btn{
+    background-color: #E76F51;
+    width: 91px;
+    border-radius: 5px;
+}
