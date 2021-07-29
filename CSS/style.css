@@ -63,3 +63,11 @@ body{
     width: 330px;
     clip-path: circle();
 }
+
+/* footer css */
+footer{
+    background-color: black;
+}
+footer ul li{
+    list-style: none;
+}
